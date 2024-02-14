@@ -201,7 +201,7 @@ Each project has been built to practice and shape my design skills by takling a 
               ></path>
             </svg>
           </a>
-          Professional Squeeze one-Pager
+          Responsive e-learning home-page
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
@@ -233,14 +233,15 @@ Each project has been built to practice and shape my design skills by takling a 
         </h3>
         <p dir="auto">
           <a
-            href="https://adrian-foster.netlify.app/"
+            href="https://helpful-bublanina-545078.netlify.app/
+"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-adrian-foster"
+            href="https://github.com/JAldo1980/elearning-landing-page"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
@@ -250,7 +251,7 @@ Each project has been built to practice and shape my design skills by takling a 
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/5b/87/Dk0YkB5s_o.png"
+            src="https://images2.imgbox.com/60/31/GfDDP3fK_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
