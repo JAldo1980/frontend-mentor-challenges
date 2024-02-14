@@ -63,14 +63,14 @@ Each project has been built to practice and shape my design skills by takling a 
         </h3>
         <p dir="auto">
           <a
-            href="https://glow-small-business.netlify.app/"
+            href="https://silver-daifuku-d35f24.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-small-business-landing-page"
+            href="https://github.com/JAldo1980/e-commerce-website"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
