@@ -31,7 +31,7 @@ Each project has been built to practice and shape my design skills by takling a 
               ></path>
             </svg>
           </a>
-        Small Business Landing Page
+        E-commerce Interactive Landing Page
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
@@ -80,7 +80,7 @@ Each project has been built to practice and shape my design skills by takling a 
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/94/ff/CaXJa7cx_o.png"
+            src="https://images2.imgbox.com/6c/30/gROvFKBR_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
