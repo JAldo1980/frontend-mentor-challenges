@@ -140,7 +140,7 @@ Each project has been built to practice and shape my design skills by takling a 
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=js,html,css"
+              src="https://skillicons.dev/icons?i=html,css"
               alt="James skills"
               style="max-width: 100%"
             />
@@ -225,7 +225,7 @@ Each project has been built to practice and shape my design skills by takling a 
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=react,js,html,css"
+              src="https://skillicons.dev/icons?i=html,css"
               alt="James skills"
               style="max-width: 100%"
             />
@@ -287,7 +287,7 @@ Each project has been built to practice and shape my design skills by takling a 
               ></path>
             </svg>
           </a>
-          Professional Profile Splash Page
+          Professional App Splash Page
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
@@ -311,7 +311,7 @@ Each project has been built to practice and shape my design skills by takling a 
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=react,js,html,css"
+              src="https://skillicons.dev/icons?i=html,css"
               alt="James skills"
               style="max-width: 100%"
             />
@@ -319,14 +319,14 @@ Each project has been built to practice and shape my design skills by takling a 
         </h3>
         <p dir="auto">
           <a
-            href="https://olivia-wilson-template.netlify.app/"
+            href="https://suite-landing-page-old.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-glow-template-2/tree/main/glow-template-2"
+            href="https://github.com/JAldo1980/suite-landing-page"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
@@ -336,7 +336,7 @@ Each project has been built to practice and shape my design skills by takling a 
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/a2/d7/6Ht5E4hN_o.png"
+            src="https://images2.imgbox.com/10/ca/tfZzxKI8_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
