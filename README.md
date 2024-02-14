@@ -116,7 +116,7 @@ Each project has been built to practice and shape my design skills by takling a 
               ></path>
             </svg>
           </a>
-          My Frontend Developer Portfolio
+          Responsive Music App Splash Page
         </h2>
         <h3 tabindex="-1" dir="auto">
           <a
@@ -140,7 +140,7 @@ Each project has been built to practice and shape my design skills by takling a 
           </a>
           <a href="https://skillicons.dev" rel="nofollow">
             <img
-              src="https://skillicons.dev/icons?i=react,js,html,css"
+              src="https://skillicons.dev/icons?i=js,html,css"
               alt="James skills"
               style="max-width: 100%"
             />
@@ -148,14 +148,14 @@ Each project has been built to practice and shape my design skills by takling a 
         </h3>
         <p dir="auto">
           <a
-            href="https://james-alderman-developer-portfolio.netlify.app/"
+            href="https://kaleidoscopic-bubblegum-a389e7.netlify.app/"
             rel="nofollow"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Live</a
           >
           |
           <a
-            href="https://github.com/JAldo1980/react-built-portfolio"
+            href="https://github.com/JAldo1980/javascript-music-landing-page"
             style="border: 1px solid #ccc; padding: 8px; border-radius: 4px"
             >Repo</a
           >
@@ -165,7 +165,7 @@ Each project has been built to practice and shape my design skills by takling a 
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/57/2f/NbvXiKAD_o.png"
+            src="https://images2.imgbox.com/f3/90/aJl1x0RQ_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
